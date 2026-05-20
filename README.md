@@ -28,7 +28,7 @@ PORT      STATE    SERVICE         VERSION
 80/tcp    open     pentesting      Web Apps | Network | Cloud
 443/tcp   open     bug-bounty      HackerOne | Bugcrowd
 8080/tcp  open     research        Vuln Research | CVE Hunting
-8443/tcp  open     tooling         Go | Python | Bash | Claude Code
+8443/tcp  open     tooling         Go | Python | Bash | Claude Code (who the he11 is not using this in 2026? lol)
 9999/tcp  open     community       DCG Panama | Conferences | Content
 ```
 
