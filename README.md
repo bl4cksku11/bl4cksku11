@@ -12,7 +12,7 @@
 [*] Role ...................... Offensive Security Researcher | Red Team Operator | Pentester
 [*] Base ...................... 🇵🇦 Panama
 [*] Orgs ...................... Zero Trust Offsec (Co-Founder) | DCG Panama (Founder)
-[*] Certs ..................... CRTO | eCPPT | eWPT | PenTest+
+[*] Certs ..................... CRTO | eCPPT | eWPT | eJPT | PenTest+
 [*] Bug Bounty ................ HackerOne - Bugcrowd - Intigriti
 [*] CVEs ...................... CVE-2026-46522 | CVE-2026-53770 | CVE-2026-54320
 [*] Conferences ............... BSides Colombia | BSides Panama | OWASP Panama | DOJOConf | DCG Panama
