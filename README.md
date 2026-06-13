@@ -20,18 +20,6 @@
 [*] Status .................... Breaching perimeters since boot...
 ```
 
-```
-$ nmap -sV bl4cksku11
-
-PORT      STATE    SERVICE         VERSION
-22/tcp    open     red-teaming     Active Directory | Phishing | C2 | EDR Evasion
-80/tcp    open     pentesting      Web Apps | Network | Cloud | API
-443/tcp   open     bug-bounty      HackerOne | Bugcrowd | Intigriti
-8080/tcp  open     research        Vuln Research | CVE Hunting
-8443/tcp  open     tooling         Go | Python | Bash | Claude Code (who the he11 is not using this in 2026? lol)
-9999/tcp  open     community       DCG Panama | Conferences | Content
-```
-
 ---
 
 <p align="center">
