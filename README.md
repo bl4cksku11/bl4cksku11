@@ -24,9 +24,5 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bl4cksku11&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=555555" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <code>// If you're not breaking things, you're not learning.</code>
 </p>
