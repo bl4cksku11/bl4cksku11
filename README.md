@@ -14,7 +14,7 @@
 [*] Orgs ...................... Zero Trust Offsec (Co-Founder) | DCG Panama (Founder)
 [*] Certs ..................... CRTO | eCPPT | eWPT | eJPT | PenTest+
 [*] Bug Bounty ................ HackerOne - Bugcrowd - Intigriti
-[*] CVEs ...................... CVE-2026-46522 | CVE-2026-53770 | CVE-2026-54320 | CVE-2026-55752 | CVE-2026-54665
+[*] CVEs ...................... CVE-2026-46522 | CVE-2026-53770 | CVE-2026-54320 | CVE-2026-55752 | 
                                 CVE-2026-55658 | CVE-2026-54665 | CVE-2026-58425 | CVE-2026-58428 | ...
 [*] Conferences ............... BSides Colombia | BSides Panama | OWASP Panama | DOJOConf | DCG Panama
 [*] Socials ................... bl4cksku11.com
